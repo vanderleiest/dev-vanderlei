@@ -21,4 +21,4 @@ Sempre a procura de novos aprendizados e experiências.
 ## Contato<br/>
 vanderleiestevestst@outlook.com
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vanderleiest/vanderleiest/blob/output/github-contribution-grid-snake.svg)
